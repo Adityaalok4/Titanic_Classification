@@ -1,3 +1,4 @@
+Colab link : [ Titanic_Classification.ipynb](https://colab.research.google.com/drive/1jRjAA9TF4YXp4p60ngPXbYbvEFqVSYx7#scrollTo=EpbuM2ABeHmY&uniqifier=3)
 # Titanic_Classification
 This repository contains a project that predicts the survival of passengers aboard the Titanic using various machine learning techniques. The dataset used is the famous Titanic dataset from Kaggle, which provides information about the passengers and their survival status.
 
