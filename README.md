@@ -66,9 +66,14 @@ Model performance is evaluated using metrics such as:
 - Precision
 - Recall
 - F1 Score
-- ROC-AUC
 Confusion matrices and other visualizations are used to interpret the results.
 
+# end...But 
+imoort job library to model 'logistic_regression_model.pkl' file.
+# coneecting Dataset 
+By using from pyngrok import ngrok
+ngrok is the website to give the Authorization Token by which with the help of this tokens we connect to the Local host.
+importing flask and create website to predict the survival chances.
 # Conclusion
 The conclusion summarizes the findings of the project, discusses the performance of different models, and suggests potential improvements for future work.
 
