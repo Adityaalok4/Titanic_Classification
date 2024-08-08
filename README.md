@@ -74,7 +74,7 @@ The conclusion summarizes the findings of the project, discusses the performance
 # How to Use
 To run this project on your local machine:
 
-1. Clone the repository: git clone 
+1. Clone the repository: Titanic_Classification.ipynb
 2. Navigate to the project directory: cd titanic-survival-prediction
 3. Install the required dependencies: pip install -r requirements.txt
 4. Run the Jupyter notebooks provided to train and evaluate the models.
