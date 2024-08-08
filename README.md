@@ -70,7 +70,7 @@ Confusion matrices and other visualizations are used to interpret the results.
 
 # end...But 
 import job library to model 'logistic_regression_model.pkl' file.
-# coneecting Dataset 
+# connecting Databases 
 By using from pyngrok import ngrok
 ngrok is the website to give the Authorization Token by which with the help of this tokens we connect to the Local host.
 importing flask and create website to predict the survival chances.
