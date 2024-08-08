@@ -69,7 +69,7 @@ Model performance is evaluated using metrics such as:
 Confusion matrices and other visualizations are used to interpret the results.
 
 # end...But 
-imoort job library to model 'logistic_regression_model.pkl' file.
+import job library to model 'logistic_regression_model.pkl' file.
 # coneecting Dataset 
 By using from pyngrok import ngrok
 ngrok is the website to give the Authorization Token by which with the help of this tokens we connect to the Local host.
